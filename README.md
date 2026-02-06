@@ -1,2 +1,2 @@
-# NAME:
+# NAME: Jiraphat Khampe
 # STUDENT ID:
